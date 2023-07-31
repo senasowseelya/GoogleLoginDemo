@@ -1,0 +1,14 @@
+C:\Users\senasowseelya.v\source\repos\GoogleLoginDemo\GoogleLoginDemo\GoogleLoginDemo.Services\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\senasowseelya.v\source\repos\GoogleLoginDemo\GoogleLoginDemo\GoogleLoginDemo.Services\bin\Debug\net6.0\appsettings.json
+C:\Users\senasowseelya.v\source\repos\GoogleLoginDemo\GoogleLoginDemo\GoogleLoginDemo.Services\bin\Debug\net6.0\GoogleLoginDemo.Services.deps.json
+C:\Users\senasowseelya.v\source\repos\GoogleLoginDemo\GoogleLoginDemo\GoogleLoginDemo.Services\bin\Debug\net6.0\GoogleLoginDemo.Services.dll
+C:\Users\senasowseelya.v\source\repos\GoogleLoginDemo\GoogleLoginDemo\GoogleLoginDemo.Services\bin\Debug\net6.0\GoogleLoginDemo.Services.pdb
+C:\Users\senasowseelya.v\source\repos\GoogleLoginDemo\GoogleLoginDemo\GoogleLoginDemo.Services\obj\Debug\net6.0\GoogleLoginDemo.Services.csproj.AssemblyReference.cache
+C:\Users\senasowseelya.v\source\repos\GoogleLoginDemo\GoogleLoginDemo\GoogleLoginDemo.Services\obj\Debug\net6.0\GoogleLoginDemo.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senasowseelya.v\source\repos\GoogleLoginDemo\GoogleLoginDemo\GoogleLoginDemo.Services\obj\Debug\net6.0\GoogleLoginDemo.Services.AssemblyInfoInputs.cache
+C:\Users\senasowseelya.v\source\repos\GoogleLoginDemo\GoogleLoginDemo\GoogleLoginDemo.Services\obj\Debug\net6.0\GoogleLoginDemo.Services.AssemblyInfo.cs
+C:\Users\senasowseelya.v\source\repos\GoogleLoginDemo\GoogleLoginDemo\GoogleLoginDemo.Services\obj\Debug\net6.0\GoogleLoginDemo.Services.csproj.CoreCompileInputs.cache
+C:\Users\senasowseelya.v\source\repos\GoogleLoginDemo\GoogleLoginDemo\GoogleLoginDemo.Services\obj\Debug\net6.0\GoogleLoginDemo.Services.dll
+C:\Users\senasowseelya.v\source\repos\GoogleLoginDemo\GoogleLoginDemo\GoogleLoginDemo.Services\obj\Debug\net6.0\refint\GoogleLoginDemo.Services.dll
+C:\Users\senasowseelya.v\source\repos\GoogleLoginDemo\GoogleLoginDemo\GoogleLoginDemo.Services\obj\Debug\net6.0\GoogleLoginDemo.Services.pdb
+C:\Users\senasowseelya.v\source\repos\GoogleLoginDemo\GoogleLoginDemo\GoogleLoginDemo.Services\obj\Debug\net6.0\ref\GoogleLoginDemo.Services.dll
